@@ -17,9 +17,13 @@ header{
     z-index: 100;
 }
 .title{
-    font-size: 35px;
+    font-size: 42px;
     font-weight: 900;
-    color: #1f8a70;
+    color: #BE3F12;
+}
+.title:hover{
+    font-size:50px;
+    color:#64A532;
 }
 .navbar{
     display: flex;
@@ -86,6 +90,10 @@ header{
     max-width: 500px;
     width: 400px;
     border-radius: 20px;
+}
+.right-content img{
+    width:420px;
+    border:2px solid #000;
 }
 @media screen and (max-width:748px) {
     .navbar{
