@@ -55,7 +55,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 70px 10%;
-    background-color: #dde6ed;
+    background-color: #DDDFE3;
     opacity: 1;
 }
 .left-content h3,h1{
@@ -83,7 +83,7 @@ header{
     border-radius: 25px;
 }
 .btn:hover{
-    background-color: #f6ba6f;
+    background-color: #64A532;
     color: #000;
 }
 .right-content img{
@@ -91,7 +91,7 @@ header{
     width: 400px;
     border-radius: 20px;
 }
-.right-content img{
+.right-content img:hover{
     width:420px;
     border:2px solid #000;
 }
